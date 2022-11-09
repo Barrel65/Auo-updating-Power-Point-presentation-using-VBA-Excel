@@ -1,4 +1,4 @@
-# Auo-updating-Power-Point-presentation-using-VBA-Excel
+# Auto-updating-Power-Point-presentation-using-VBA-Excel
 
 Important! turn on "Microsoft Point 16.0 obejct" Library before exporting data (In Ecxel file: Alt+F11 => Tools => References => "Microsoft Point 16.0 obejct") 
 
